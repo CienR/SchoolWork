@@ -1,0 +1,11 @@
+C:\Users\Manilyn Baldevieso\source\repos\BasicQueuingCashier\BasicQueuingCashier\bin\Debug\BasicQueuingCashier.exe.config
+C:\Users\Manilyn Baldevieso\source\repos\BasicQueuingCashier\BasicQueuingCashier\bin\Debug\BasicQueuingCashier.exe
+C:\Users\Manilyn Baldevieso\source\repos\BasicQueuingCashier\BasicQueuingCashier\bin\Debug\BasicQueuingCashier.pdb
+C:\Users\Manilyn Baldevieso\source\repos\BasicQueuingCashier\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.csproj.AssemblyReference.cache
+C:\Users\Manilyn Baldevieso\source\repos\BasicQueuingCashier\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.CashierWindowQueueForm.resources
+C:\Users\Manilyn Baldevieso\source\repos\BasicQueuingCashier\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.Properties.Resources.resources
+C:\Users\Manilyn Baldevieso\source\repos\BasicQueuingCashier\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.QueuingForm.resources
+C:\Users\Manilyn Baldevieso\source\repos\BasicQueuingCashier\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.csproj.GenerateResource.cache
+C:\Users\Manilyn Baldevieso\source\repos\BasicQueuingCashier\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.csproj.CoreCompileInputs.cache
+C:\Users\Manilyn Baldevieso\source\repos\BasicQueuingCashier\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.exe
+C:\Users\Manilyn Baldevieso\source\repos\BasicQueuingCashier\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.pdb
