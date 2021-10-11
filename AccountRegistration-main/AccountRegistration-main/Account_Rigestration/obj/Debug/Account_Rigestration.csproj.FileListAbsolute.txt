@@ -1,0 +1,11 @@
+C:\Users\Manilyn Baldevieso\source\repos\Account_Rigestration\Account_Rigestration\bin\Debug\Account_Rigestration.exe.config
+C:\Users\Manilyn Baldevieso\source\repos\Account_Rigestration\Account_Rigestration\bin\Debug\Account_Rigestration.exe
+C:\Users\Manilyn Baldevieso\source\repos\Account_Rigestration\Account_Rigestration\bin\Debug\Account_Rigestration.pdb
+C:\Users\Manilyn Baldevieso\source\repos\Account_Rigestration\Account_Rigestration\obj\Debug\Account_Rigestration.csproj.AssemblyReference.cache
+C:\Users\Manilyn Baldevieso\source\repos\Account_Rigestration\Account_Rigestration\obj\Debug\Account_Rigestration.Properties.Resources.resources
+C:\Users\Manilyn Baldevieso\source\repos\Account_Rigestration\Account_Rigestration\obj\Debug\Account_Rigestration.csproj.GenerateResource.cache
+C:\Users\Manilyn Baldevieso\source\repos\Account_Rigestration\Account_Rigestration\obj\Debug\Account_Rigestration.csproj.CoreCompileInputs.cache
+C:\Users\Manilyn Baldevieso\source\repos\Account_Rigestration\Account_Rigestration\obj\Debug\Account_Rigestration.exe
+C:\Users\Manilyn Baldevieso\source\repos\Account_Rigestration\Account_Rigestration\obj\Debug\Account_Rigestration.pdb
+C:\Users\Manilyn Baldevieso\source\repos\Account_Rigestration\Account_Rigestration\obj\Debug\Account_Rigestration.Form2.resources
+C:\Users\Manilyn Baldevieso\source\repos\Account_Rigestration\Account_Rigestration\obj\Debug\Account_Rigestration.StudentInfoClass.resources
